@@ -104,8 +104,7 @@ Detailed documentation is available in the "PDF files" section:
 
 ### GitHub Repository
 Access the full project files, schemas, and documentation on GitHub:
-[Furniro Marketplace Builder Hackathon 2025](https://github.com/AreebaNadeem567/Furniro-Marketplace-Builder-Hackathon-2025.git)
-
+[Furniro Marketplace Builder Hackathon 2025] ()https://github.com/AreebaNadeem567/Furniro-Marketplace-Builder-Hackathon.git
 #### Step 4: Diagram
 The data schema diagram visualizes the relationships between the entities and is also available in the **images folder**.
 
